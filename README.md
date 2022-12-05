@@ -10,12 +10,16 @@
 
 ## Table of Contents
 
-1. Gathering the data
-   <!-- 1. do something -->
-   <!-- 2. do something -->
-2. Cleaning the data
-3. Interpreting the data
-4. Visuallization
+1. Cleaning the data
+   1. Hava a quick look on the data
+   2. Drop rows with missing values
+   3. Add continent column matching the country name
+2. Visualize related countries & cities
+3. Understanding the data
+   1. Q1.
+   2. Q2.
+   3. Q3.
+   4. Q4.
 
 ## Data source
 
@@ -49,10 +53,12 @@ According to author, the data is extracted from [Meteostat](https://meteostat.ne
   - [x] Seaborn
   - [x] Geopandas
   - [x] Plotly-express
+  - [x] Pycountry-convert
 
 ### 2. Order of files when running
 
-1. ./Gathering_data.ipynb
-2. ./Cleaning_data.ipynb
-3. ./Interpreting.data.ipynb
-4. ./Visuallization.ipynb
+1. ./CleaningData_Part1.ipynb
+2. ./CleaningData_Part2.ipynb
+3. ./VisualizeCountriesCities.ipynb
+4. ./UnderstandData_Part1.ipynb
+5. ./UnderstandData_Part2.ipynb

@@ -1,4 +1,4 @@
-# Weather Analysis with Python
+# Weather Analysis
 
 ## Desciption
 
@@ -16,8 +16,8 @@
    3. Add continent column matching the country name
 2. Visualize related countries & cities
 3. Understanding the data
-   1. Q1.
-   2. Q2.
+   1. Q1. List 20 cities in Europe that had lowest average temperature in December 2021.
+   2. Q2. Show average temperature of one city in Vietnam in months
    3. Q3.
    4. Q4.
 

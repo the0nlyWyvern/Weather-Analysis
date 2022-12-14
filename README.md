@@ -18,8 +18,8 @@
 3. Understanding the data
    1. Q1. List 20 cities in Europe that had lowest average temperature in December 2021.
    2. Q2. Show average temperature of one city in Vietnam in months
-   3. Q3.
-   4. Q4.
+   3. Q3. Is there any change in average temperature in Tokyo during the time that the data was recording ?
+   4. Q4. Which are ideal coastal cities for surfing ?
 
 ## Data source
 

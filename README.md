@@ -1,6 +1,6 @@
 # Weather Analysis
 
-<img src="./screenshots/unsplash.jpg" alt="Cities around the world">
+<img src="./screenshots/wolfgang-hasselmann-unsplash.jpg" alt="Illustrate image" width="100%">
 
 ## Description
 

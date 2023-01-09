@@ -1,11 +1,10 @@
 # Weather Analysis
 
-## Desciption
+<img src="./screenshots/unsplash.jpg" alt="Cities around the world">
+
+## Description
 
 - A project in _Data Science Programming_ (University of Science HCM)
-- Author:
-  - 19120557 - Tran Tuan Kiet
-  - 19120522 - Pham Quoc Hung
 - Use Python and libraries (pandas, matplotlib) to explore the data.
 
 ## Table of Contents
@@ -43,7 +42,7 @@ According to author, the data is extracted from [Meteostat](https://meteostat.ne
 
 ## How to use
 
-### 1. Enviroment
+### 1. Environment
 
 - Jupyter Notebook
 - Python-3's standard libraries and:
@@ -62,3 +61,8 @@ According to author, the data is extracted from [Meteostat](https://meteostat.ne
 3. ./VisualizeCountriesCities.ipynb
 4. ./UnderstandData_Part1.ipynb
 5. ./UnderstandData_Part2.ipynb
+
+## Contributors
+
+- Tran Tuan Kiet
+- Pham Quoc Hung
